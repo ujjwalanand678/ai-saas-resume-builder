@@ -1,8 +1,8 @@
-#🧠 AI SaaS Resume Builder
+# 🧠 AI SaaS Resume Builder
 
 A modern, full-stack SaaS application that generates ATS-friendly resumes using AI. Built with Next.js, TypeScript, Tailwind CSS, MongoDB, and OpenAI — with user authentication, templates, and export features.
 
-#✨ Features
+# ✨ Features
 
 🔹 AI-Powered Resume Generation
 
@@ -35,7 +35,7 @@ Multi-tenant structure
 Clean UI built for real users
 
 
-#🏗️ Tech Stack
+# 🏗️ Tech Stack
 
 Frontend:
 HTML, JavaScript
