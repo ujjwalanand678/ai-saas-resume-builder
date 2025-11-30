@@ -1,16 +1,50 @@
-# React + Vite
+🧠 AI SaaS Resume Builder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, full-stack SaaS application that generates ATS-friendly resumes using AI. Built with Next.js, TypeScript, Tailwind CSS, MongoDB, and OpenAI — with user authentication, templates, and export features.
 
-Currently, two official plugins are available:
+✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔹 AI-Powered Resume Generation
 
-## React Compiler
+Generate complete, ATS-optimized resume content using the OpenAI API:
+Professional resume summaries
+Skill sections
+Role-specific bullet points
+Experience rewriter
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🔹 Resume Templates
 
-## Expanding the ESLint configuration
+Switch between multiple modern resume templates with live preview.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔹 Full User Authentication
+
+Sign up / Login 
+Save multiple resumes
+Continue editing anytime
+
+🔹 Export Options
+
+Export to PDF
+Copy to clipboard
+Download as text or markdown
+
+🔹 Built for Real SaaS
+
+Protected routes
+Multi-tenant structure
+Clean UI built for real users
+
+
+🏗️ Tech Stack
+
+Frontend:
+HTML, JavaScript
+React.js
+Tailwind CSS
+
+Backend:
+Next.js Server Actions
+MongoDB + Mongoose
+OpenAI API
+
+
